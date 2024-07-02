@@ -2,9 +2,9 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import corpcommentImg from "@/public/youtubeHomePage.png";
-import rmtdevImg from "@/public/auth_app.png";
-import wordanalyticsImg from "@/public/budget-app.png";
+import corpcommentImg from "@/public/youtubeHomePage.PNG";
+import rmtdevImg from "@/public/auth_app.PNG";
+import wordanalyticsImg from "@/public/budget-app.PNG";
 
 export const links = [
   {
